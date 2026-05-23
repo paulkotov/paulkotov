@@ -1,7 +1,6 @@
 ## Hi, I'm Paul 👋
 
-## Crafting the Digital Experience
-With a decade of experience at the intersection of logic and aesthetics, I specialize in building web interfaces that don’t just function—they breathe. My journey as a Frontend Developer has been driven by a simple philosophy: the web should be as dynamic and fluid as the ideas it hosts.
+## Lead of structures design
 
 ## The Art of Motion
 Over the last 10 years, I have honed my expertise in web services and graphics. I believe that a well-timed transition or a perfectly rendered graphic is more than just "eye candy"—it’s a critical component of user experience. Whether it’s SVG manipulation, high-performance CSS animations, or complex canvas renderings, I focus on creating immersive digital environments that captivate users without sacrificing performance.
