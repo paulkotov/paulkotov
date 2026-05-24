@@ -1,15 +1,29 @@
 ## Hi, I'm Paul 👋
 
-## Lead of structures design
+# Hi there, I'm a Fullstack & CAD/BIM Software Engineer! 👋
 
-## The Art of Motion
-Over the last 10 years, I have honed my expertise in web services and graphics. I believe that a well-timed transition or a perfectly rendered graphic is more than just "eye candy"—it’s a critical component of user experience. Whether it’s SVG manipulation, high-performance CSS animations, or complex canvas renderings, I focus on creating immersive digital environments that captivate users without sacrificing performance.
+I am a seasoned developer with over 10 years of experience building scalable web applications and specialized software for engineering automation. My expertise lies at the intersection of robust web development and intelligent CAD/BIM solutions, turning complex technical workflows into efficient digital products.
 
-## Bridging the Gap: .NET & Automation
-Beyond the browser, my curiosity extends into the architecture of efficiency. I have a deep-seated interest in .NET ecosystems, specifically in creating robust automation tools. By bridging my frontend sensibilities with backend automation, I build workflows that eliminate repetitive tasks and streamline software development cycles. I thrive on making complex .NET software smarter, faster, and more reliable.
+---
 
-## Why I Do What I Do
-I sit at the crossroads of the visual and the functional. My goal is always to push the boundaries of what a web application can be—turning static layouts into living products and manual processes into automated precision.
+### 💻 Fullstack Web Development (10+ Years Experience)
 
-Looking for a collaborator who speaks both "Web services" and ".NET Automation"?
-Let’s connect and build something extraordinary.
+I specialize in architecting and delivering production-ready web ecosystems, ranging from corporate platforms to high-load cloud applications. Over the past decade, I have evolved from writing simple scripts to designing complex system architectures that handle thousands of daily active users. 
+
+**Responsibilities & Achievements:**
+* **System Architecture**: Designing resilient cloud-native architectures from scratch and migrating legacy monoliths to microservices.
+* **Performance Tuning**: Significantly boosted app loading speeds in previous projects by optimizing database queries and caching strategies.
+* **DevOps & CI/CD**: Setting up automated deployment pipelines, containerizing applications, and reducing time-to-market.
+* **Security First**: Implementing strict authentication protocols and data encryption to ensure enterprise-grade security.
+
+---
+
+### 📐 CAD / BIM Engineering & Automation
+
+My second core specialization is developing plugins, add-ins, and standalone tools to automate engineering workflows. I bridge the gap between web technologies and heavy desktop engineering software, helping teams eliminate repetitive manual tasks.
+
+**Responsibilities & Achievements:**
+* **Plugin Development**: Building custom tools for software like Revit and AutoCAD to automate drafting, calculations, and reporting.
+* **Data Integration**: Connecting BIM models with external databases, cloud services, ERP systems, and web viewers (e.g., Autodesk Platform Services / Forge).
+* **Workflow Optimization**: Developed automation tools that reduced routine design operations for engineering teams by up to 40%.
+* **Standard Compliance**: Delivering software that strictly adheres to company BIM standards and international engineering practices.
