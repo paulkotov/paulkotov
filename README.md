@@ -1,6 +1,4 @@
-## Hi, I'm Paul 👋
-
-# Hi there, I'm a Fullstack & CAD/BIM Software Engineer! 👋
+# Hi, I'm Paul, I'm a Fullstack & CAD/BIM Software Engineer! 👋
 
 I am a seasoned developer with over 10 years of experience building scalable web applications and specialized software for engineering automation. My expertise lies at the intersection of robust web development and intelligent CAD/BIM solutions, turning complex technical workflows into efficient digital products.
 
