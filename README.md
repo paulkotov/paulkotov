@@ -8,6 +8,8 @@ I am a seasoned developer with over 10 years of experience building scalable web
 
 I specialize in architecting and delivering production-ready web ecosystems, ranging from corporate platforms to high-load cloud applications. Over the past decade, I have evolved from writing simple scripts to designing complex system architectures that handle thousands of daily active users. 
 
+* **Core Stack**: JavaScript (JS), TypeScript (TS), Node.js
+  
 **Responsibilities & Achievements:**
 * **System Architecture**: Designing resilient cloud-native architectures from scratch and migrating legacy monoliths to microservices.
 * **Performance Tuning**: Significantly boosted app loading speeds in previous projects by optimizing database queries and caching strategies.
@@ -20,6 +22,8 @@ I specialize in architecting and delivering production-ready web ecosystems, ran
 
 My second core specialization is developing plugins, add-ins, and standalone tools to automate engineering workflows. I bridge the gap between web technologies and heavy desktop engineering software, helping teams eliminate repetitive manual tasks.
 
+* **Core Stack**: .NET, C#
+  
 **Responsibilities & Achievements:**
 * **Plugin Development**: Building custom tools for software like Revit and AutoCAD to automate drafting, calculations, and reporting.
 * **Data Integration**: Connecting BIM models with external databases, cloud services, ERP systems, and web viewers (e.g., Autodesk Platform Services / Forge).
