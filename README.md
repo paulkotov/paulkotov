@@ -10,7 +10,7 @@ I specialize in architecting and delivering production-ready web ecosystems, ran
 
 * **Core Stack**: JavaScript (JS), TypeScript (TS)
   - Frontend: React, Vanilla JS;
-  - Backend: NodeJS, NestJS
+  - Backend: NodeJS, NestJS, Express;
   
 **Responsibilities & Achievements:**
 * **System Architecture**: Designing resilient cloud-native architectures from scratch and migrating legacy monoliths to microservices.
