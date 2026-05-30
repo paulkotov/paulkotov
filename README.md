@@ -9,7 +9,7 @@ I am a seasoned developer with over 10 years of experience building scalable web
 I specialize in architecting and delivering production-ready web ecosystems, ranging from corporate platforms to high-load cloud applications. Over the past decade, I have evolved from writing simple scripts to designing complex system architectures that handle thousands of daily active users. 
 
 * **Core Stack**: JavaScript (JS), TypeScript (TS)
-  - Frontend: React, JS;
+  - Frontend: React, Vanilla JS;
   - Backend: NodeJS, NestJS
   
 **Responsibilities & Achievements:**
