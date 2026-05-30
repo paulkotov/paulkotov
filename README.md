@@ -15,8 +15,7 @@ I specialize in architecting and delivering production-ready web ecosystems, ran
 **Responsibilities & Achievements:**
 * **System Architecture**: Designing resilient cloud-native architectures from scratch and migrating legacy monoliths to microservices.
 * **Performance Tuning**: Significantly boosted app loading speeds in previous projects by optimizing database queries and caching strategies.
-* **DevOps & CI/CD**: Setting up automated deployment pipelines, containerizing applications, and reducing time-to-market.
-* **Security First**: Implementing strict authentication protocols and data encryption to ensure enterprise-grade security.
+* API:  Connection core backend logic with external services.
 
 ---
 
